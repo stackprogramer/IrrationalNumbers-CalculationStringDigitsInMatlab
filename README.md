@@ -7,7 +7,7 @@ and other irrational numbers.
 
 
 ###Sumation Inverse n(1/n)
-![sumation inverse n](https://raw.githubusercontent.com/stackprogramer/IrrationalNumbers-CalculationStringDigitsInMatlab/master/images/img-inversn.png)
+![sumation inverse n](https://raw.githubusercontent.com/stackprogramer/IrrationalNumbers-CalculationStringDigitsInMatlab/master/images/image-calculation-inverse.png)
 
 #Factor Generators
 
